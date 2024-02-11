@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # encoding: UTF-8
+import sys
+sys.setdefaultencoding('utf-8')
 
 import os
 import subprocess
